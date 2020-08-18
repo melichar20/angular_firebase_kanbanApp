@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanban-app-65b95": {
+      "hosting": {
+        "angularKanbanApp": [
+          "kanban-app-65b95"
+        ]
+      }
+    }
+  }
+}
